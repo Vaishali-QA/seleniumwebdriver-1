@@ -1,0 +1,41 @@
+[INFO ] 2026-03-12 19:58:15.540 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grouping.xml
+
+[INFO ] 2026-03-12 19:58:23.617 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-12 19:58:23.794 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-12 19:58:24.733 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-12 19:58:24.736 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-12 19:58:26.631 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-12 19:58:26.681 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-12 19:58:29.537 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-12 19:58:31.377 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
+[INFO ] 2026-03-12 20:03:35.368 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grouping.xml
+
+[INFO ] 2026-03-12 20:03:39.785 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-12 20:03:39.978 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-12 20:03:40.680 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-12 20:03:40.682 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-12 20:03:41.592 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-12 20:03:42.631 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-12 20:03:45.972 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-12 20:19:27.165 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grouping.xml
+
+[INFO ] 2026-03-12 20:19:32.218 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-12 20:19:32.423 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-12 20:19:33.035 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-12 20:19:33.039 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-12 20:19:34.927 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-12 20:19:34.970 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-12 20:19:37.735 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-12 20:52:10.946 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grouping.xml
+
+[INFO ] 2026-03-12 20:52:17.796 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-12 20:52:17.967 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-12 20:52:18.479 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-12 20:52:18.481 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-12 20:52:20.364 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-12 20:52:20.428 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-12 20:52:23.546 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************

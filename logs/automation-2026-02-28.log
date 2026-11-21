@@ -1,0 +1,67 @@
+[INFO ] 2026-02-28 12:50:03.594 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2026-02-28 12:50:03.608 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.609 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-02-28 12:50:03.609 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.609 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.611 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.611 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.616 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2026-02-28 12:50:03.630 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+[INFO ] 2026-02-28 12:50:03.632 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-02-28 12:50:03.632 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.633 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.633 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.633 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.633 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.635 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.636 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.636 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.636 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.641 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.642 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.642 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.642 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.643 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.644 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.646 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.646 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.646 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.646 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-02-28 12:50:03.654 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--541792713\testng-customsuite.xml
+
+[INFO ] 2026-02-28 12:50:03.681 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[INFO ] 2026-02-28 12:50:03.724 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-02-28 12:50:03.927 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@40258c2f: 94 ms
+[INFO ] 2026-02-28 12:50:03.960 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e4de19b: 33 ms
+[INFO ] 2026-02-28 12:50:03.980 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7383eae2: 20 ms
+[INFO ] 2026-02-28 12:50:03.994 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1643d68f: 14 ms
+[INFO ] 2026-02-28 12:50:04.009 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@acb0951: 14 ms
+[INFO ] 2026-02-28 12:50:04.009 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bf22f18: 0 ms
+[INFO ] 2026-02-28 12:52:58.128 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+
+[INFO ] 2026-02-28 12:53:05.191 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-02-28 12:54:34.652 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+
+[INFO ] 2026-02-28 12:54:37.936 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-02-28 12:54:38.106 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-02-28 12:54:38.624 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-02-28 12:54:38.628 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-02-28 12:54:39.522 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-02-28 12:54:40.783 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-02-28 12:55:13.661 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+
+[INFO ] 2026-02-28 12:55:17.961 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-02-28 13:09:36.525 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+
+[INFO ] 2026-02-28 13:09:40.953 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-02-28 13:15:26.130 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+
+[INFO ] 2026-02-28 13:15:29.909 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-02-28 13:15:31.628 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************

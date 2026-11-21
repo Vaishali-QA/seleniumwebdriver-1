@@ -1,0 +1,37 @@
+[INFO ] 2026-03-19 13:25:03.282 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-19 13:25:12.143 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-19 13:25:12.597 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-19 13:25:13.136 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-19 13:25:13.139 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-19 13:25:14.855 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-19 13:25:14.992 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-19 13:25:20.442 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-19 13:25:23.351 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
+[INFO ] 2026-03-19 13:25:47.801 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-19 13:25:52.887 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-19 13:25:53.083 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-19 13:25:54.125 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-19 13:25:54.130 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-19 13:25:55.849 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-19 13:25:55.915 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-19 13:26:00.454 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-19 13:26:02.730 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
+[INFO ] 2026-03-19 15:05:12.424 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-19 15:05:12.823 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-19 15:05:13.407 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-19 15:05:13.409 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-19 15:05:15.659 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-19 15:05:15.728 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-19 15:05:17.822 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-19 15:05:19.884 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
+[INFO ] 2026-03-19 15:05:22.403 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-19 15:05:24.557 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-19 15:05:33.500 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-19 15:05:33.502 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-19 15:28:31.310 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+

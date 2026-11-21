@@ -1,0 +1,378 @@
+[INFO ] 2026-03-04 13:12:24.306 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-03-04 13:12:24.321 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-03-04 13:12:24.324 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.325 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.326 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.326 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.327 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.327 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.336 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2026-03-04 13:12:24.362 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+[INFO ] 2026-03-04 13:12:24.366 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.367 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.369 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.370 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.371 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.371 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.374 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.375 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.376 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.376 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.382 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.383 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.383 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.383 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.386 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-03-04 13:12:24.387 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.389 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.389 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.389 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.389 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:12:24.404 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-621799616\testng-customsuite.xml
+
+[INFO ] 2026-03-04 13:12:24.432 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[ERROR] 2026-03-04 13:12:24.486 [main] Utils - [Error] org.testng.TestNGException: 
+Method public void testCases.TC003_LoginDDT.verify_loginDTT(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : LoginData in class org.testng.annotations.DataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+[INFO ] 2026-03-04 13:12:24.686 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@12bcd0c0: 102 ms
+[INFO ] 2026-03-04 13:12:24.709 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55b5f5d2: 23 ms
+[INFO ] 2026-03-04 13:12:24.727 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@36546a22: 17 ms
+[INFO ] 2026-03-04 13:12:24.749 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4721d212: 22 ms
+[INFO ] 2026-03-04 13:12:24.763 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@654d8173: 13 ms
+[INFO ] 2026-03-04 13:12:24.764 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56c9bbd8: 0 ms
+[INFO ] 2026-03-04 13:31:45.984 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\mastertestng.xml
+
+[INFO ] 2026-03-04 13:32:46.110 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.115 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.117 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.117 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.118 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.118 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.118 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.118 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.122 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-03-04 13:32:46.134 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[INFO ] 2026-03-04 13:32:46.136 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.137 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.137 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.137 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.138 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.138 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.141 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.142 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.142 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.142 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.145 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.145 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.145 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.145 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.146 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-03-04 13:32:46.146 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.148 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.148 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.148 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.148 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:32:46.157 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--475128244\testng-customsuite.xml
+
+[INFO ] 2026-03-04 13:32:46.177 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[ERROR] 2026-03-04 13:32:46.205 [main] Utils - [Error] org.testng.TestNGException: 
+Method public void testCases.TC003_LoginDDT.verify_loginDTT(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : LoginData in class org.testng.annotations.DataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+[INFO ] 2026-03-04 13:32:46.325 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@27305e6: 63 ms
+[INFO ] 2026-03-04 13:32:46.339 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4fc5e095: 13 ms
+[INFO ] 2026-03-04 13:32:46.352 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@41925502: 13 ms
+[INFO ] 2026-03-04 13:32:46.364 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2ece4966: 12 ms
+[INFO ] 2026-03-04 13:32:46.372 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@242aa8d9: 6 ms
+[INFO ] 2026-03-04 13:32:46.372 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5b11a194: 0 ms
+[INFO ] 2026-03-04 13:35:46.019 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.025 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.026 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.026 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.027 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.027 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.027 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.027 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.032 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2026-03-04 13:35:46.044 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[INFO ] 2026-03-04 13:35:46.045 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.046 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.047 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.047 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.048 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.048 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.050 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.050 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.051 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.051 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.054 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.054 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.054 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.054 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.055 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.056 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.057 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.057 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.057 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.057 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:35:46.063 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-778230954\testng-customsuite.xml
+
+[INFO ] 2026-03-04 13:35:46.081 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[ERROR] 2026-03-04 13:35:49.479 [main] Utils - [Error] org.testng.TestNGException: 
+Method public void testCases.TC003_LoginDDT.verify_loginDTT(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : LoginData in class org.testng.annotations.DataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+[INFO ] 2026-03-04 13:35:49.739 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7a24eb3: 46 ms
+[INFO ] 2026-03-04 13:35:49.751 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@26dcd8c0: 12 ms
+[INFO ] 2026-03-04 13:35:49.762 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@319854f0: 11 ms
+[INFO ] 2026-03-04 13:35:49.771 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f2e4acf: 9 ms
+[INFO ] 2026-03-04 13:35:49.777 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6f667ad1: 6 ms
+[INFO ] 2026-03-04 13:35:49.777 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@566d0c69: 0 ms
+[INFO ] 2026-03-04 13:38:43.234 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.238 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.239 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.240 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.240 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.240 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.240 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.240 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.244 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-03-04 13:38:43.252 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[INFO ] 2026-03-04 13:38:43.253 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.253 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.254 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.254 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.254 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.254 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.256 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.256 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.257 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.257 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.259 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.259 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.260 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.260 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.261 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.261 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.262 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.262 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.262 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.263 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:38:43.268 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--1636054714\testng-customsuite.xml
+
+[INFO ] 2026-03-04 13:38:43.285 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[ERROR] 2026-03-04 13:38:45.895 [main] Utils - [Error] java.io.FileNotFoundException: .\TestData\LoginData.xlsx (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:108)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:32)
+	at utilities.DataProviders.getData(DataProviders.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+[INFO ] 2026-03-04 13:38:46.186 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2032e725: 67 ms
+[INFO ] 2026-03-04 13:38:46.201 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@8c46918: 15 ms
+[INFO ] 2026-03-04 13:38:46.212 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4a7761b1: 11 ms
+[INFO ] 2026-03-04 13:38:46.223 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@70abf9b0: 10 ms
+[INFO ] 2026-03-04 13:38:46.231 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@43effd89: 8 ms
+[INFO ] 2026-03-04 13:38:46.232 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2c16fadb: 1 ms
+[INFO ] 2026-03-04 13:42:00.898 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.903 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-03-04 13:42:00.905 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.905 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.905 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.905 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.905 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.906 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.909 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2026-03-04 13:42:00.919 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO ] 2026-03-04 13:42:00.922 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.922 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.923 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.923 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.923 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.923 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.926 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.926 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.926 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.926 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.928 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.928 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.928 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.928 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.929 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.930 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.932 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.932 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.933 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.933 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:42:00.940 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-569065470\testng-customsuite.xml
+
+[INFO ] 2026-03-04 13:42:00.959 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2026-03-04 13:42:05.034 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:42:07.970 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:42:07.974 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:42:19.707 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:42:19.707 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:42:22.664 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:42:23.028 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2121d1f9: 78 ms
+[INFO ] 2026-03-04 13:42:23.028 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@462e1e64: 0 ms
+[INFO ] 2026-03-04 13:42:23.039 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@18371d89: 11 ms
+[INFO ] 2026-03-04 13:42:23.055 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a790e40: 16 ms
+[INFO ] 2026-03-04 13:42:23.055 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@60c73e58: 0 ms
+[INFO ] 2026-03-04 13:42:23.055 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5984feef: 0 ms
+[INFO ] 2026-03-04 13:46:30.995 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2026-03-04 13:46:31.001 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.003 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.004 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.005 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.005 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.005 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.005 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.010 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2026-03-04 13:46:31.024 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[INFO ] 2026-03-04 13:46:31.025 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.025 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.026 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.026 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.027 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.027 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.030 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.030 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.030 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.031 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.034 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.035 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.035 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.035 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.036 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.037 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.038 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.038 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.039 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.039 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-03-04 13:46:31.057 [main] Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--196217061\testng-customsuite.xml
+
+[INFO ] 2026-03-04 13:46:31.081 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2026-03-04 13:46:34.587 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:46:36.469 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:46:48.214 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:46:48.215 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:46:52.361 [main] TC003_LoginDDT - ***********Starting TC003_LoginDDT*************
+[INFO ] 2026-03-04 13:46:52.737 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@38830ea: 62 ms
+[INFO ] 2026-03-04 13:46:52.769 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@56b859a6: 32 ms
+[INFO ] 2026-03-04 13:46:52.769 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@16a35bd: 0 ms
+[INFO ] 2026-03-04 13:46:52.784 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c3e4b1a: 15 ms
+[INFO ] 2026-03-04 13:46:52.784 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5762658b: 0 ms
+[INFO ] 2026-03-04 13:46:52.784 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2629d5dc: 0 ms

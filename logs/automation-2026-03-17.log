@@ -1,0 +1,45 @@
+[INFO ] 2026-03-17 21:05:58.191 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-17 21:05:58.448 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[ERROR] 2026-03-17 21:05:58.477 [main] TC_001_AccountRegistrationTest - Test Failed
+[INFO ] 2026-03-17 21:09:17.412 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-17 21:09:25.443 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-17 21:09:25.656 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-17 21:09:26.072 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-17 21:09:26.075 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-17 21:09:27.883 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-17 21:09:27.956 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-17 21:09:29.878 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-17 21:09:31.618 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
+[INFO ] 2026-03-17 21:13:03.251 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-17 21:13:12.409 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-17 21:13:12.583 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-17 21:13:13.083 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-17 21:13:13.085 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-17 21:13:14.672 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-17 21:13:14.728 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-17 21:13:16.066 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-17 21:13:17.645 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
+[INFO ] 2026-03-17 21:13:19.395 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[ERROR] 2026-03-17 21:13:19.403 [main] TC_001_AccountRegistrationTest - Test Failed
+[INFO ] 2026-03-17 21:16:13.886 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-17 21:16:14.156 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[ERROR] 2026-03-17 21:16:14.177 [main] TC_001_AccountRegistrationTest - Test Failed
+[INFO ] 2026-03-17 21:17:41.892 [main] Utils - [TestNG] Running:
+  C:\dell\seleniumwebdriver\grid-docker.xml
+
+[INFO ] 2026-03-17 21:17:49.843 [main] TC_001_AccountRegistrationTest - *********Staring TC_001_AccountRegistrationTest***********
+[INFO ] 2026-03-17 21:17:50.009 [main] TC_001_AccountRegistrationTest - Clicked on myaccount Link....
+[INFO ] 2026-03-17 21:17:50.432 [main] TC_001_AccountRegistrationTest - Clicked on Register Link....
+[INFO ] 2026-03-17 21:17:50.434 [main] TC_001_AccountRegistrationTest - Providing Customer Details....
+[INFO ] 2026-03-17 21:17:51.847 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[INFO ] 2026-03-17 21:17:51.892 [main] TC_001_AccountRegistrationTest - *****Finished TC_001_AccountRegistrationTest******
+[INFO ] 2026-03-17 21:17:56.888 [main] TC002_LoginTest - ************Starting TC002_LoginTest**************
+[INFO ] 2026-03-17 21:17:58.729 [main] TC002_LoginTest - ************Finished TC002_LoginTest**************
