@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 3.409 s <<< FAILURE! -- in TestSuite
-testCases.TC_001_AccountRegistrationTest.setup[windows, chrome](0) -- Time elapsed: 1.698 s <<< FAILURE!
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 3.493 s <<< FAILURE! -- in TestSuite
+testCases.TC_001_AccountRegistrationTest.setup[windows, chrome](0) -- Time elapsed: 1.538 s <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
 Host info: host: 'DESKTOP-7378A7K', ip: '10.77.157.192'
@@ -80,7 +80,7 @@ Caused by: java.nio.channels.ClosedChannelException
 	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:184)
 	... 9 more
 
-testCases.TC002_LoginTest.setup[windows, chrome](0) -- Time elapsed: 0.044 s <<< FAILURE!
+testCases.TC002_LoginTest.setup[windows, chrome](0) -- Time elapsed: 0.032 s <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
 Host info: host: 'DESKTOP-7378A7K', ip: '10.77.157.192'
